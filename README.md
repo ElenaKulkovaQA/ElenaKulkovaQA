@@ -1,5 +1,5 @@
 # Hi there! I'm QA!👋
-![Header](https://github.com/ElenaKulkovaQA/ElenaKulkovaQA/blob/main/assets/Xk3n.gif)
+![Header](https://github.com/ElenaKulkovaQA/ElenaKulkovaQA/blob/main/assets/IMG_0877.JPG)
 <!--
 **ElenaKulkovaQA/ElenaKulkovaQA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
