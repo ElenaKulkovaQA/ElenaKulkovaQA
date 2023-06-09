@@ -1,5 +1,5 @@
 # Hi there! I'm QA!👋
-
+https://github.com/ElenaKulkovaQA/ElenaKulkovaQA/blob/main/assets/Xk3n.gif
 <!--
 **ElenaKulkovaQA/ElenaKulkovaQA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
